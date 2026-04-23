@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52cc7bde-c793-42b1-9d6d-d8df0d516f9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Generic/Boxs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Copy_List_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Fruit_Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Max_of_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Numeric_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Price_Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generic/Two_value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/LambdaExpression/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/LambdaExpression/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/LambdaExpression/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/Linkedlist/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/Linkedlist/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/Set/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/Set/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/Stack/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/Stack/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/arraylist/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/arraylist/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collection/src/com/arraylist/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Collection/src/com/arraylist/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/ArrayList/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/ArrayList/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/Monday/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/Monday/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="Wrapper" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3CleOYxp1Zu3PZC5tQc1clYFkm0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Generics",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Shaurya Chandel/Desktop/Bridgelabz_Training_1Y/Generics/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52cc7bde-c793-42b1-9d6d-d8df0d516f9c" name="Changes" comment="" />
+      <created>1776964553553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776964553553</updated>
+    </task>
+    <servers />
+  </component>
+</project>
